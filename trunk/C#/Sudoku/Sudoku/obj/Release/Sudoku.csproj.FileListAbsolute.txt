@@ -1,0 +1,11 @@
+D:\CODES\C#\Sudoku\Sudoku\bin\Release\Sudoku.exe
+D:\CODES\C#\Sudoku\Sudoku\bin\Release\Sudoku.pdb
+D:\CODES\C#\Sudoku\Sudoku\bin\Release\zh-CHS\Sudoku.resources.dll
+D:\CODES\C#\Sudoku\Sudoku\obj\Release\ResolveAssemblyReference.cache
+D:\CODES\C#\Sudoku\Sudoku\obj\Release\Sudoku.Properties.Resources.resources
+D:\CODES\C#\Sudoku\Sudoku\obj\Release\Sudoku.Sudoku.resources
+D:\CODES\C#\Sudoku\Sudoku\obj\Release\Sudoku.Sudoku.zh-CHS.resources
+D:\CODES\C#\Sudoku\Sudoku\obj\Release\Sudoku.csproj.GenerateResource.Cache
+D:\CODES\C#\Sudoku\Sudoku\obj\Release\zh-CHS\Sudoku.resources.dll
+D:\CODES\C#\Sudoku\Sudoku\obj\Release\Sudoku.exe
+D:\CODES\C#\Sudoku\Sudoku\obj\Release\Sudoku.pdb
