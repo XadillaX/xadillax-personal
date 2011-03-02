@@ -340,7 +340,7 @@ namespace Sudoku
 
         public int GetSeed()
         {
-            alert(unchecked((int)DateTime.Now.Ticks).ToString());
+            //alert(unchecked((int)DateTime.Now.Ticks).ToString());
             return unchecked((int)DateTime.Now.Ticks);
         }
 
