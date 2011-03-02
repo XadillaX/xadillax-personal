@@ -1,0 +1,39 @@
+Font fnt
+{
+    filename = Consolas.fnt
+    blendmode = BLEND_DEFAULT    
+}
+
+Texture FrameTexture
+{
+    filename = frame.png
+}
+
+Texture HintTexture
+{
+    filename = hint.png
+}
+
+Sprite Frame
+{
+    texture = FrameTexture
+    rect = 0, 0, 100, 38
+    blendmode = BLEND_DEFAULT
+}
+
+Sprite Hint
+{
+    texture = HintTexture
+    rect = 0, 0, 290, 270
+    blendmode = BLEND_DEFAULT
+}
+
+Sound SE
+{
+   filename = se.wav
+}
+
+Sound End
+{
+   filename = end.wav
+}
