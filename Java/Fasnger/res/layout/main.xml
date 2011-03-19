@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 绝对定位布局 -->
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" android:orientation="horizontal">
+    
+    <!-- 用于游戏的按钮 -->
+    <Button 
+    		android:text=""
+    		android:id="@+id/game_button"
+    		android:layout_x="0dip"
+    		android:layout_y="0dip"
+    		android:layout_width="match_parent"
+    		android:layout_height="match_parent"
+    		android:background="@drawable/bg">
+    </Button>
+    
+    <!-- 用于计时的文字 -->
+    <TextView
+    		android:layout_x="6dip" 
+    		android:layout_height="wrap_content" 
+    		android:layout_width="wrap_content" 
+    		android:id="@+id/time_view" 
+    		android:text="状态 —— " 
+    		android:layout_y="458dip"
+    		android:textColor="#ffff0000">
+    </TextView>
+</AbsoluteLayout>
